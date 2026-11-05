@@ -2,14 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jo%C3%A3o%20Pedro&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=60" alt="Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIFOR;Desenvolvimento+de+software;Algoritmos+e+estruturas+de+dados;Transformando+conhecimento+em+c%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&background=0F2027&center=true&vCenter=true&width=640&lines=Welcome+To+My+Profile;Technology+and+Development" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/queirozzzxzzz">
   <img src="https://img.shields.io/badge/GitHub-queirozzzxzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <img src="https://img.shields.io/badge/Fortaleza-CE-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ceará" />
 
 </div>
@@ -93,7 +92,9 @@ Para ativar: apague esta linha e a última linha do comentário, e troque NOME-D
 <a href="https://judge.beecrowd.com/pt/profile/793823">
   <img src="https://img.shields.io/badge/BeeCrowd-F5A623?style=for-the-badge&logo=hackerrank&logoColor=white" alt="BeeCrowd" />
 </a>
-
+<a href="mailto:queirozss1234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <br/><br/>
 
