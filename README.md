@@ -1,60 +1,101 @@
- <div align="center">
-<img src="https://raw.githubusercontent.com/96erardo/chrome-dino/master/dino-game.gif" width="500" alt="Google Chrome Dinosaur Game" />
-
-João Pedro 👋
-
-Desenvolvedor em formação | Estudante de Ciência da Computação
-
-</div>
-
-⸻
-
-👨‍💻 Sobre mim
-
-Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR), interessado em desenvolvimento de software, tecnologia e criação de soluções através da programação.
-
-Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explorar novas tecnologias.
-
-⸻
-
-🚀 Tecnologias e ferramentas
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,kotlin,html,css,react,nodejs,firebase,mysql,git,github,vscode" />
-</div>
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jo%C3%A3o%20Pedro&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=60" alt="Banner" />
 
-📊 Estatísticas do GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIFOR;Desenvolvimento+de+software;Algoritmos+e+estruturas+de+dados;Transformando+conhecimento+em+c%C3%B3digo" alt="Typing SVG" />
 
-<div align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
+<br/>
 
-⸻
-
-🎯 Atualmente
-
-* 📚 Aprofundando meus conhecimentos em Ciência da Computação.
-* 💻 Desenvolvendo projetos acadêmicos e pessoais.
-* 🚀 Aprimorando minhas habilidades em desenvolvimento de software.
-* 🧠 Estudando algoritmos, estruturas de dados e engenharia de software.
-
-⸻
-
-📫 Contato
-
-<div align="center">
 <a href="https://github.com/queirozzzxzzz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-queirozzzxzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/UNIFOR-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-0b5fa5?style=for-the-badge&logo=academia&logoColor=white" alt="UNIFOR" />
+<img src="https://img.shields.io/badge/Fortaleza-CE-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ceará" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** na **Universidade de Fortaleza (UNIFOR)**, com interesse em desenvolvimento de software e na criação de soluções por meio da programação.
+
+Busco evoluir continuamente: construo projetos, estudo fundamentos sólidos e exploro novas tecnologias.
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,py,js,html,css" alt="Linguagens" />
+
+**Frameworks e plataformas**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mysql" alt="Frameworks e plataformas" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+
+</div>
+
+---
+
+## 🎯 Foco atual
+
+| | |
+|---|---|
+| 📚 **Estudos** | Algoritmos, estruturas de dados e engenharia de software |
+| 💻 **Projetos** | Desenvolvimento de projetos acadêmicos e pessoais |
+| 🌱 **Evolução** | Aprimoramento contínuo em desenvolvimento de software |
+
+---
+
+<!--
+## 📌 Projetos em destaque
+Para ativar: apague esta linha e a última linha do comentário, e troque NOME-DO-REPOSITORIO pelo nome do seu repositório.
+
+<div align="center">
+<a href="https://github.com/queirozzzxzzz/NOME-DO-REPOSITORIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=queirozzzxzzz&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/queirozzzxzzz/NOME-DO-REPOSITORIO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=queirozzzxzzz&repo=NOME-DO-REPOSITORIO-2&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
-⸻
+---
+-->
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-“Transformando conhecimento em código e ideias em soluções.”
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=queirozzzxzzz&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/queirozzzxzzz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+*“Transformando conhecimento em código e ideias em soluções.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Rodapé" />
+
+</div>
+
