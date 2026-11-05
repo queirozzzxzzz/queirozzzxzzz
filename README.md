@@ -19,16 +19,16 @@ Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explor
 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ⸻
 
-📈 Atividade no GitHub
+📈 Histórico de contribuições
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=queirozzzxzzz&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=queirozzzxzzz&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ⸻
@@ -46,7 +46,7 @@ Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explor
 
 <div align="center">
 <a href="https://github.com/queirozzzxzzz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
