@@ -9,7 +9,7 @@
 <a href="https://github.com/queirozzzxzzz">
   <img src="https://img.shields.io/badge/GitHub-queirozzzxzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/UNIFOR-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-0b5fa5?style=for-the-badge&logo=academia&logoColor=white" alt="UNIFOR" />
+
 <img src="https://img.shields.io/badge/Fortaleza-CE-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ceará" />
 
 </div>
