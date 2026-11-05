@@ -20,7 +20,7 @@ Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explor
 
 <div align="center">
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 ⸻
@@ -28,7 +28,6 @@ Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explor
 📈 Histórico de contribuições
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=queirozzzxzzz&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ⸻
