@@ -1,6 +1,15 @@
-Olá! Eu sou João Pedro 👋
+ <div align="center">
+<img src="https://raw.githubusercontent.com/96erardo/chrome-dino/master/dino-game.gif" width="500" alt="Google Chrome Dinosaur Game" />
+
+João Pedro 👋
 
 Desenvolvedor em formação | Estudante de Ciência da Computação
+
+</div>
+
+⸻
+
+👨‍💻 Sobre mim
 
 Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR), interessado em desenvolvimento de software, tecnologia e criação de soluções através da programação.
 
@@ -21,13 +30,6 @@ Busco constantemente aprimorar minhas habilidades, desenvolver projetos e explor
 <div align="center">
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=queirozzzxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=queirozzzxzzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
-
-⸻
-
-📈 Histórico de contribuições
-
-<div align="center">
 </div>
 
 ⸻
