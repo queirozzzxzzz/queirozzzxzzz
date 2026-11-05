@@ -9,7 +9,7 @@
 <a href="https://github.com/queirozzzxzzz">
   <img src="https://img.shields.io/badge/GitHub-queirozzzxzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+<img src="https://img.shields.io/badge/UNIFOR-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-0b5fa5?style=for-the-badge&logo=academia&logoColor=white" alt="UNIFOR" />
 <img src="https://img.shields.io/badge/Fortaleza-CE-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ceará" />
 
 </div>
@@ -89,6 +89,12 @@ Para ativar: apague esta linha e a última linha do comentário, e troque NOME-D
 
 <a href="https://github.com/queirozzzxzzz">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://judge.beecrowd.com/pt/profile/793823">
+  <img src="https://img.shields.io/badge/BeeCrowd-F5A623?style=for-the-badge&logo=hackerrank&logoColor=white" alt="BeeCrowd" />
+</a>
+<a href="mailto:queirozss1234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
