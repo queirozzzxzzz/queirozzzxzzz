@@ -93,9 +93,7 @@ Para ativar: apague esta linha e a última linha do comentário, e troque NOME-D
 <a href="https://judge.beecrowd.com/pt/profile/793823">
   <img src="https://img.shields.io/badge/BeeCrowd-F5A623?style=for-the-badge&logo=hackerrank&logoColor=white" alt="BeeCrowd" />
 </a>
-<a href="mailto:queirozss1234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+
 
 <br/><br/>
 
